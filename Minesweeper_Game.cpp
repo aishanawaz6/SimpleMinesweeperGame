@@ -1,7 +1,3 @@
-/* OOP SEMESTER 2 PROJECT 
-       BSCS SECTION 2E1 
-     (INDIVIDUALLY DONE)
- AISHA MUHAMMAD NAWAZ [20L-0921] */
 #include <iostream>
 #include "mygraphics.h" // Library included to use  Graphics
 #include "myconsole.h" // Library included to use Graphics
